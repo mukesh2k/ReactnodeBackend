@@ -50,7 +50,7 @@ const list = {
       rating: 4,
       nor: 10,
       noofstock: 18,
-      price: 4000,
+      price: 4010,
       brand: "lenovo",
       img: "/img/lenovo.jpg",
       description: "oota phone",
